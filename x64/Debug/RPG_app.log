@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(33,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(36,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(90,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(120,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(177,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(226,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(231,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Character.h(238,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(61,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(63,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(68,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(70,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(75,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(77,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(82,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(84,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(87,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\Game.h(89,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasiya\source\repos\RPG_app\RPG_app\main.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  RPG_app.vcxproj -> C:\Users\Anastasiya\source\repos\RPG_app\x64\Debug\RPG_app.exe
